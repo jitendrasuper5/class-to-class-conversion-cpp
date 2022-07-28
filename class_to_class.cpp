@@ -1,3 +1,4 @@
+//class to class conversion
 #include<iostream>
 using namespace std;
 class invent1{
